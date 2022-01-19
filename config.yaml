@@ -47,8 +47,8 @@ params:
   description: >
     A website built through Hugo and blogdown with the hugo-prose theme.
   footer: >
-    &copy; [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-    4 BC -- AD 65
+    &copy; [衍昕文学社](https://cdtuyxlc.netlify.app/)
+    2009 -- 2022
   license: >
     Text and figures are licensed under [Creative Commons Attribution CC BY
     4.0](https://creativecommons.org/licenses/by/4.0/). The source code is
