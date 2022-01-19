@@ -19,28 +19,23 @@ outputs:
 # some menu items were added via the `menu` option in YAML in posts
 menu:
   header:
-    - name: Search
+    - name: 搜索
       url: "#"
       identifier: menu-search
-    - name: Subscribe
-      url: "index.xml"
   footer:
-    - name: Contact
+    - name: 联系
       url: "/404.html"
       weight: 1
-    - name: Categories
+    - name: 类别
       url: "/categories/"
       weight: 2
       pre: "optional"
-    - name: Tags
+    - name: 标签
       url: "/tags/"
       weight: 3
       pre: "optional"
-    - name: Suggest an edit
-      url: "#"
-      weight: 4
       identifier: "menu-edit"
-    - name: Back to top
+    - name: 返回
       url: "#"
 
 params:

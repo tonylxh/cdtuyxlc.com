@@ -28,7 +28,7 @@ features:
 - -citation
 menu:
   header:
-    name: About
+    name: 关于
     weight: 2
 tags:
 - menu
